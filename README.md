@@ -2,9 +2,10 @@
 
 ## Project Based on Harry Potter Show 
 
-### Used Public API to Get The character info
+### Used Public API to Get The Characters info
 
-Link : https://hp-api.herokuapp.com/
+API Link : https://hp-api.herokuapp.com/
+
+Live Project Link : https://0xdevsachin.github.io/harry-potter/
 
 
-Live Link : https://0xdevsachin.github.io/harry-potter/
