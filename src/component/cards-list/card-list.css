@@ -1,0 +1,24 @@
+.card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 60vh;
+    flex-wrap: wrap;
+}
+
+.card div {
+    padding: 60px 10px 10px 10px;
+    width: 280px;
+    height: 55vh;
+    border-radius: 6px;
+    text-align: center;
+    background-color: rgb(127, 55, 223);
+    margin: 20px auto;
+    transform: scale(0.8);
+}
+
+.card div:hover {
+    cursor: pointer;
+    transition: all 0.8s ease-in-out;
+    transform: scale(0.9);
+}
